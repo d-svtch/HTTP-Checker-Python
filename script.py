@@ -6,7 +6,7 @@ import asyncio
 
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = "YOUR OT TOKEN"
+TOKEN = "YOUR BOT TOKEN"
 url = 'YOUR URL'
 
 listner = False
