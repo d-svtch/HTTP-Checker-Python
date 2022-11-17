@@ -6,8 +6,8 @@ import asyncio
 
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = "5644056150:AAHlW3abaYK5W3LlBAEFc2VoAQ27841qzjQ"
-url = 'https://zabbix.medvedev-it.ru/zabbix.php?action=dashboard.view'
+TOKEN = "YOUR OT TOKEN"
+url = 'YOUR URL'
 
 listner = False
 warnings = False
